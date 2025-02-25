@@ -41,7 +41,7 @@ Welcome to the **GitHub Actions Masterclass** — a comprehensive guide to maste
 
 1. **Clone the repo**:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/rohanmistry231/Github-Actions-Learning-Materials.git
    ```
 2. **Navigate through sections** to learn each topic step by step.
 3. **Run the examples** and tweak them to understand real-world use cases.
